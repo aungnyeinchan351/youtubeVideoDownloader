@@ -17,7 +17,7 @@ Then, Install pytube to download youtube videos.
 pip3 install pytube
 ```
 Then, clone this repo using **git clone**.
-``|
+```
 git clone https://github.com/aungnyeinchan351/youtubeVideoDownloader.git
 ```
 After cloning repo, open with **cd** command and run **YouTube.py**.
